@@ -1,0 +1,10 @@
+{
+  "name": "yarn3-windows",
+  "repository": "git@github.com:danielroe/yarn3-windows.git",
+  "author": "Daniel Roe <daniel@roe.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  },
+  "packageManager": "yarn@3.0.0"
+}
